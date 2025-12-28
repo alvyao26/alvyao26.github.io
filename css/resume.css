@@ -44,7 +44,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-  color: #4B0082;
+  color: #0328be;
 }
 
 .list-social-icons a .fa-lg {
@@ -56,7 +56,7 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
-  color: #4B0082;
+  color: #0328be;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -138,21 +138,21 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #76449a !important;
+  background-color: #0328be !important;
 }
 
 .text-primary {
-  color: #76449a !important;
+  color: #0328be !important;
 }
 
 a {
-  color: #76449a;
+  color: #0328be;
 }
 
 a:hover,
 a:focus,
 a:active {
-  color: #3A0069;
+  color: #021f94;
 }
 
 .tag-cloud {
@@ -169,27 +169,6 @@ a:active {
   color: #343a40; 
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif; 
 }
-#dark-mode-toggle-container {
-  position: fixed;
-  bottom: 20px;
-  left: 20px;
-  z-index: 1100;
-}
-
-#dark-mode-toggle {
-  background-color: #76449a;
-  color: white;
-  border: none;
-  padding: 10px 20px;
-  border-radius: 5px;
-  cursor: pointer;
-  font-size: 1em;
-}
-
-#dark-mode-toggle:hover {
-  background-color: #5b357b;
-}
-
 
 body.dark-mode {
   background-color: #121212;
